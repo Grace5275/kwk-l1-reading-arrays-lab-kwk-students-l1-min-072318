@@ -37,4 +37,4 @@ def first_second_and_thrid_students
   # Write a solution that returns the first, second and third students
 end
 
-first_second_and_thrid_students
+puts first_second_and_thrid_students
