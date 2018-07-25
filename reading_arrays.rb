@@ -36,3 +36,5 @@ def first_second_and_thrid_students
   return STUDENT_NAMES[0..2]
   # Write a solution that returns the first, second and third students
 end
+
+first_second_and_thrid_students
