@@ -23,6 +23,7 @@ def last_student_by_index
 end
 
 def first_student_by_method
+  puts 
   # Write a solution that returns the first student using the built in .first method
 end
 
